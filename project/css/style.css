@@ -44,7 +44,6 @@ h3 {
     height: 75rem;
     width: 78rem;
     left: -72rem;
-    top: -12rem;
     border-radius: 50%;
     position: absolute;
 
@@ -53,7 +52,6 @@ h3 {
     background-color: #bbb;
     height: 0.5rem;
     width: 0.5rem;
-    top: -12rem; 
     border-radius: 50%;
      
 }
@@ -61,7 +59,6 @@ h3 {
     background-color: #E7CDCD;
     width: 1.5rem;
     height: 1.5rem;
-    top: -12rem;
     border-radius: 50%;
     
 } 
@@ -104,7 +101,6 @@ h3 {
     width: 240px;
     margin-left: -45px; 
     
-
 }
 .uranus {
     background-color: #C9D4F1;
