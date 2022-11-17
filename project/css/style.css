@@ -1,0 +1,181 @@
+
+* {
+   background-color: #0a2f52;
+
+}
+.bodies {
+    display:block;
+
+  }
+
+.bodyContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.body-info {
+    display: none;
+    width: 50%;
+}
+h3 {
+    text-align: center;
+    color: white;
+
+}
+.sunesystem {
+    text-align: right;
+    font-size: 40px;
+
+}
+.sol {
+    text-align: right;
+    color: #FFD029;
+    font-size: 55px;
+
+}
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.sun {
+    background-color:  #FFD029;
+    height: 75rem;
+    width: 78rem;
+    left: -72rem;
+    top: -12rem;
+    border-radius: 50%;
+    position: absolute;
+
+}
+.mercury {
+    background-color: #bbb;
+    height: 0.5rem;
+    width: 0.5rem;
+    top: -12rem; 
+    border-radius: 50%;
+     
+}
+.venus {
+    background-color: #E7CDCD;
+    width: 1.5rem;
+    height: 1.5rem;
+    top: -12rem;
+    border-radius: 50%;
+    
+} 
+.earth {
+    background-color: #428ED4;
+    width: 2rem;
+    height: 2rem;
+    top: -12rem;
+    border-radius: 50%;
+     
+}
+.mars {
+    background-color: #EF5F5F;
+    width: 0.8rem;
+    height: 0.8rem;
+    top: -12rem;
+    border-radius: 50%;
+    
+}
+.jupiter {
+    background-color: #E29468;
+    width: 10rem;
+    height: 10rem;
+    top: -12rem; 
+    border-radius: 50%;
+      
+}
+.saturn {
+    background-color: #C7AA72;
+    width: 8rem;
+    height: 8rem;
+    top: -12rem;
+    border-radius: 50%;
+
+}
+.ring {
+    position: absolute; 
+    background-color: #FFFFFF;
+    opacity: 40%;
+    top: 60%;  
+    height: 2px;
+    width: 240px;
+    margin-left: -45px; 
+    transform: rotateZ(30deg);
+}
+
+.uranus {
+    background-color: #C9D4F1;
+    width: 5rem;
+    height: 5rem;
+    top: -12rem;
+    border-radius: 50%;
+     
+}
+.neptune {
+    width: 4rem;
+    height: 4rem;
+    background-color: #7A91A7;
+    border-radius: 50%;
+   
+}
+#name{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+}
+#latinName {
+    text-align: center;
+    color: #FFD029;
+    font-size: 25px;
+
+}
+.text {
+    color: white;
+    text-align: center;
+
+}
+.omkrets {
+    color: white;
+   text-align: left;
+
+}
+.km {
+    color: white
+
+}
+
+.max {
+    color: white
+}
+
+.min {
+    color: white
+
+}
+footer {
+    color: white;
+    display: grid;
+    grid-template-columns: 312px 312px ;
+    justify-content: center;
+    height: 250px;
+ 
+}
+h4 {
+    color: white;
+    text-align: center;
+}
+hr {
+    border: 0;
+    width: 640px;
+    height: 0px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
