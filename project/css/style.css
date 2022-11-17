@@ -156,6 +156,7 @@ footer {
     grid-template-columns: 312px 312px ;
     justify-content: center;
     height: 250px;
+    word-wrap: break-word;   
 
 }
 h4 {
