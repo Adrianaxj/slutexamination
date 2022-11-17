@@ -6,8 +6,7 @@
 .bodies {
     display:block;
 
-  }
-
+}
 .bodyContainer {
     display: flex;
     justify-content: center;
@@ -102,13 +101,13 @@ h3 {
     position: absolute; 
     background-color: #FFFFFF;
     opacity: 40%;
-    top: 60%;  
+    top: 28%;  
     height: 2px;
     width: 240px;
     margin-left: -45px; 
     transform: rotateZ(30deg);
-}
 
+}
 .uranus {
     background-color: #C9D4F1;
     width: 5rem;
@@ -150,11 +149,10 @@ h3 {
     color: white
 
 }
-
 .max {
     color: white
-}
 
+}
 .min {
     color: white
 
@@ -165,17 +163,18 @@ footer {
     grid-template-columns: 312px 312px ;
     justify-content: center;
     height: 250px;
- 
+
 }
 h4 {
     color: white;
     text-align: center;
+
 }
 hr {
     border: 0;
     width: 640px;
     height: 0px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3)
 }
 
